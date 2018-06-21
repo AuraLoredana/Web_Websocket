@@ -1,5 +1,5 @@
 /**
- * @author Rémi Goyard
+ * @author Aura
  */
 ;
 (function () {
